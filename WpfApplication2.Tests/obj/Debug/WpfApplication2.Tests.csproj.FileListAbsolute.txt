@@ -1,0 +1,8 @@
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\bin\Debug\WpfApplication2.Tests.dll
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\bin\Debug\WpfApplication2.Tests.pdb
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\bin\Debug\WpfApplication2.exe
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\bin\Debug\WpfApplication2.pdb
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\obj\Debug\WpfApplication2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\obj\Debug\WpfApplication2.Tests.dll
+C:\Users\Павел\Desktop\dotNet\WPF\WpfApplication2\WpfApplication2.Tests\obj\Debug\WpfApplication2.Tests.pdb
