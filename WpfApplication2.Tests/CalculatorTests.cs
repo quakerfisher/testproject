@@ -64,5 +64,15 @@ namespace WpfApplication2.Tests
 
             Assert.AreEqual(0, mult);
         }
+		
+		[TestMethod]
+		public void isMult0And10Returned0()
+		{
+			Calculator calculator = new Calculator();
+			
+			int mult = calculator.Mult(0, 10);
+			
+			Assert.AreEqual(0, mult);
+		}
     }
 }
